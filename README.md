@@ -18,15 +18,15 @@
 7th-semester Data Science student at ESCOM (Instituto Politécnico Nacional), graduating early 2027. I work
 end-to-end on the data pipeline — cleaning and harmonizing messy multi-source data, SQL, feature engineering,
 and training/evaluating supervised models (scikit-learn, PyTorch, XGBoost). Currently applying that to a
-graph-neural-network research project and to a production inventory-automation system.
+graph-neural-network research project and to an inventory-automation prototype for a small business.
 
 ### `$ currently`
 
 - Building a GNN + XGBoost pipeline to predict ligand binding affinity, toxicity, and blood-brain-barrier
   permeability for the 5-HT1A receptor (Trabajo Terminal, team of 3)
 - Modeling optimal racing lines with calculus, linear algebra, and numerical optimization
-- Running a live Python + PostgreSQL + Streamlit system that automates demand/inventory analysis for a
-  small business
+- Prototyping a Python + PostgreSQL + Streamlit system to automate demand/inventory analysis for a
+  small business (built locally, not yet deployed)
 
 ### `$ projects`
 
@@ -41,8 +41,8 @@ in-corner decision load.
 `Python` `SymPy` `Matplotlib` `Optimization`
 
 **[Pharmacy Inventory Automation](https://github.com/alemald0nad0/pharmacy-inventory-system)**
-End-to-end system replacing manual stock tracking: demand/seasonality analysis feeding a Streamlit app
-on PostgreSQL.
+Local prototype (not yet deployed) that would replace manual stock tracking: demand/seasonality analysis
+feeding a Streamlit app on PostgreSQL.
 `Python` `PostgreSQL` `Streamlit`
 
 **[NLP: Summarization & Sentiment](https://github.com/alemald0nad0/nlp-summarization-sentiment)**
@@ -54,18 +54,19 @@ Automatic text summarization and sentiment analysis.
 ### `$ stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,pytorch,sklearn,docker,git,github,linux,vscode,neovim,latex,obsidian" />
+  <img src="https://skillicons.dev/icons?i=py,c,pytorch,sklearn,postgres,nodejs,docker,git,github,linux,vscode,neovim,latex,obsidian" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Statsmodels-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
-<!-- skillicons.dev doesn't cover pandas/numpy/xgboost/statsmodels/streamlit yet, hence the second row -->
+<!-- skillicons.dev doesn't cover pandas/numpy/jupyter/xgboost/statsmodels/streamlit yet, hence the second row -->
 
 ### `$ stats`
 
@@ -74,14 +75,8 @@ Automatic text summarization and sentiment analysis.
   <img height="165" src="https://streak-stats.demolab.com/?user=alemald0nad0&background=0D1117&border=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" />
 </p>
 
-### `$ activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alemald0nad0&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=Contribution%20Activity" />
-</p>
-
 ### `$ contact`
 
-- Email: [alemaldonad432@gmail.com](mailto:alemaldonad432@gmail.com)
-- GitHub: [@alemald0nad0](https://github.com/alemald0nad0)
-- LinkedIn: *(add your profile URL)*
+<p align="center">
+  <a href="mailto:alemaldonad432@gmail.com"><img src="https://img.shields.io/badge/alemaldonad432%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
