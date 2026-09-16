@@ -31,21 +31,25 @@ graph-neural-network research project and to an inventory-automation prototype f
 ### `$ projects`
 
 **[5-HT1A Ligand Pipeline](https://github.com/alemald0nad0/PIPELINE-GNN-5HT1A)**
+
 GNNs and XGBoost over ChEMBL / PDSP / BindingDB data (RDKit, SMILES) to prioritize drug candidates by
 affinity, BBB crossing, and toxicity.
 `Python` `PyTorch` `RDKit` `XGBoost`
 
 **[Racing Line Optimizer](https://github.com/alemald0nad0/racing-line-optimizer)**
+
 Mathematical optimization of race trajectories from circuit geometry and telemetry, to cut a driver's
 in-corner decision load.
 `Python` `SymPy` `Matplotlib` `Optimization`
 
 **[Pharmacy Inventory Automation](https://github.com/alemald0nad0/pharmacy-inventory-system)**
+
 Local prototype (not yet deployed) that would replace manual stock tracking: demand/seasonality analysis
 feeding a Streamlit app on PostgreSQL.
 `Python` `PostgreSQL` `Streamlit`
 
 **[NLP: Summarization & Sentiment](https://github.com/alemald0nad0/nlp-summarization-sentiment)**
+
 Automatic text summarization and sentiment analysis.
 `Python` `NLP`
 
