@@ -2,7 +2,7 @@
 <h3 align="center">Data Science student · ESCOM-IPN</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&lines=Data+Science+%2B+Machine+Learning;Graph+Neural+Networks+%26+Cheminformatics;Open+to+internships+%E2%80%94+Oct+2026" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&lines=Data+Science+%2B+Machine+Learning;Graph+Neural+Networks+%26+Bioinformatics;Open+to+internships+%E2%80%94+Oct+2026" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -23,14 +23,14 @@ graph-neural-network research project and to an inventory-automation prototype f
 ### `$ currently`
 
 - Building a GNN + XGBoost pipeline to predict ligand binding affinity, toxicity, and blood-brain-barrier
-  permeability for the 5-HT1A receptor (Trabajo Terminal, team of 3)
+  permeability for the 5-HT1A receptor. 
 - Modeling optimal racing lines with calculus, linear algebra, and numerical optimization
 - Prototyping a Python + PostgreSQL + Streamlit system to automate demand/inventory analysis for a
   small business (built locally, not yet deployed)
 
 ### `$ projects`
 
-**[5-HT1A Ligand Pipeline](https://github.com/alemald0nad0/5ht1a-ligand-pipeline)**
+**[5-HT1A Ligand Pipeline](https://github.com/alemald0nad0/PIPELINE-GNN-5HT1A)**
 GNNs and XGBoost over ChEMBL / PDSP / BindingDB data (RDKit, SMILES) to prioritize drug candidates by
 affinity, BBB crossing, and toxicity.
 `Python` `PyTorch` `RDKit` `XGBoost`
@@ -49,7 +49,7 @@ feeding a Streamlit app on PostgreSQL.
 Automatic text summarization and sentiment analysis.
 `Python` `NLP`
 
-> Links above are placeholders — point them at the real repos once each project is pushed and public.
+
 
 ### `$ stack`
 
@@ -66,7 +66,7 @@ Automatic text summarization and sentiment analysis.
   <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
-<!-- skillicons.dev doesn't cover pandas/numpy/jupyter/xgboost/statsmodels/streamlit yet, hence the second row -->
+
 
 ### `$ stats`
 
