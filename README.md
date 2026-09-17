@@ -16,7 +16,7 @@
 ### `$ whoami`
 
 7th-semester Data Science student at ESCOM (Instituto Politécnico Nacional), graduating early 2027. I work
-end-to-end on the data pipeline — cleaning and harmonizing messy multi-source data, SQL, feature engineering,
+end-to-end on the data pipeline cleaning and harmonizing messy multi-source data, SQL, feature engineering,
 and training/evaluating supervised models (scikit-learn, PyTorch, XGBoost). Currently applying that to a
 graph-neural-network research project and to an inventory-automation prototype for a small business.
 
